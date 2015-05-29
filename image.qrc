@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/game/img">
+        <file>img/444.png</file>
+        <file>img/123.png</file>
+        <file>img/title.png</file>
+        <file>img/menu.png</file>
+        <file>img/0.png</file>
+        <file>img/2.png</file>
+        <file>img/4.png</file>
+        <file>img/8.png</file>
+        <file>img/16.png</file>
+        <file>img/32.png</file>
+        <file>img/64.png</file>
+        <file>img/128.png</file>
+        <file>img/256.png</file>
+        <file>img/512.png</file>
+        <file>img/1024.png</file>
+        <file>img/2048.png</file>
+        <file>img/4096.png</file>
+        <file>img/base2.pdn</file>
+        <file>img/game.png</file>
+        <file>img/icon.png</file>
+        <file>img/black.png</file>
+        <file>img/ca.png</file>
+        <file>img/eagle.png</file>
+        <file>img/gamewin.jpg</file>
+        <file>img/hulk.png</file>
+        <file>img/ironman.png</file>
+        <file>img/thor.png</file>
+        <file>img/ultron.png</file>
+        <file>img/vision.png</file>
+        <file>img/gameover.png</file>
+    </qresource>
+</RCC>
